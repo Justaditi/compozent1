@@ -1,4 +1,4 @@
-# compozent1
+# Compozent Task 1
 # Caesar Cipher Encryption/Decryption
 
 This repository contains a simple implementation of Caesar cipher encryption and decryption in C++.
